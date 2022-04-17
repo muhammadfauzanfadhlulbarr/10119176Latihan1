@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">10119176Latihan1</string>
+    <string name="digi_team">DigiTeam</string>
+    <string name="digi_teamdesc">Digital Together Everyone Achieve More\nJabar Digital Service</string>
+    <string name="jam_kerja">Jam Kerja Bulan Ini</string>
+    <string name="jam_kerja_desc"><b>Jam kerja kamu bulan ini: 130.53 Jam</b></string>
+    <string name="waktu_kerja">130.53 JAM</string>
+    <string name="checkin">Checkin</string>
+    <string name="laporan_kamu">Laporan Kamu</string>
+    <string name="buat_laporan">Buat Laporan</string>
+    <string name="muhammad_fauzan_fadhlulbarr_10119176"><b>Muhammad Fauzan Fadhlulbarr</b></string>
+</resources>
